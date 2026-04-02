@@ -1,64 +1,74 @@
-# Hey, I'm Sushrut 👋
+# Hi, I'm Sushrut Singh 👋
 
-I get unreasonably excited about messy datasets. Give me a chaotic spreadsheet and I'll give you a story.
+**Data Analyst** · Frankfurt, Germany 🇩🇪
 
----
+I turn messy, real-world datasets into decisions. My work sits at the intersection of business strategy and data — finding the revenue leak in an inventory report, or the insight hiding in a sales funnel that nobody thought to look at.
 
-## 🚀 About Me
-
-I'm a data analyst in the making, based in Frankfurt 🇩🇪, obsessed with the moment when raw numbers suddenly *mean something*. Whether it's spotting a revenue leak hiding in stockout data or building a dashboard that makes a business pattern impossible to ignore — I'm here for it.
-
-I believe good analysis isn't just about finding patterns. It's about telling the right person the right thing at the right time.
-
-- 🔍 Currently going deep on SQL, advanced pandas, and data storytelling
-- 🛠️ Stack: Python · SQL · Power BI · Excel · Jupyter
-- 📊 Vibe: business insight over beautiful code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushrut-singh-ebs/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushrutnarayan)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Python** — pandas, numpy, matplotlib, seaborn  
-**BI & Visualization** — Power BI (DAX, data modeling, star schema), Excel (pivot tables, formulas)  
-**Data** — cleaning, transformation, EDA, visualization  
-**Growing** — SQL, communicating insights to non-technical audiences
-
----
-
-## 📌 Projects
-
-### 📊 ASOS Stockout Revenue Analysis
-*How much money walks out the door when items go out of stock?*
-
-I dug into ASOS product and inventory data to answer exactly that — calculating stockout rates, estimating lost revenue, and pinpointing the high-demand products bleeding the most. The kind of analysis a buying team would actually use.
-
-🔗 [View Project](https://github.com/sushrutnarayan/asos-stockout-revenue-analysis)
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Python Libraries** | pandas, numpy, matplotlib, seaborn |
+| **BI & Visualization** | Power BI (DAX, star schema, data modeling), Excel (pivot tables, advanced formulas) |
+| **Environment** | Jupyter Notebook |
+| **Currently Learning** | Advanced SQL, business storytelling, communicating insights to non-technical stakeholders |
 
 ---
 
-### 🍫 Chocolate Sales Dashboard (Power BI)
-*Turning a multi-table sales dataset into a dashboard that actually tells a story.*
+## 📂 Projects
 
-Built an interactive Power BI dashboard analyzing chocolate sales across product categories, brands, countries, and store types. Used DAX for custom measures, star schema for data modeling, and interactive slicers to make it genuinely explorable — not just pretty.
+### 🔩 [PCB Assembly Automation — KUKA Strategy Case Study](https://github.com/sushrutnarayan/pcb-assembly-automation-case-study)
+> Consulting-style market and strategy case study on cobot adoption in European PCB assembly SMEs
 
-Key metrics covered: revenue, profit margin, order volume, AOV, and country/brand breakdowns.
+Structured as a real consulting deliverable for KUKA, this project examines the strategic landscape for collaborative robot adoption among small and mid-sized electronics manufacturers in Europe. Covers market sizing, adoption barriers, competitive positioning, and strategic recommendations.
 
-🔗 [View Project](https://github.com/sushrutnarayan/Chocolate-Sales-Dashboard-PowerBI)
-
----
-
-## 📈 Right Now
-
-- Building a portfolio of projects that solve real business problems
-- Getting uncomfortable with SQL until it feels comfortable
-- Learning to make insights land — not just be correct, but *convincing*
+`Strategy` `Market Analysis` `Manufacturing` `Consulting`
 
 ---
 
-## 📫 Let's Connect
+### 📊 [ASOS Stockout Revenue Analysis](https://github.com/sushrutnarayan/asos-stockout-revenue-analysis)
+> How much revenue walks out the door when products go out of stock?
 
-[LinkedIn](https://www.linkedin.com/in/sushrut-singh-ebs/) · [GitHub](https://github.com/sushrutnarayan)
+Analysed ASOS product and inventory data to quantify revenue lost to stockouts. Calculated stockout rates per SKU, estimated lost revenue, and identified the high-demand brands bleeding the most — the kind of output a buying team could act on directly.
+
+`Python` `pandas` `numpy` `matplotlib` `seaborn` `EDA`
 
 ---
 
-*Always down to talk data, projects, or what Frankfurt's best coffee spot is ☕*
+### 🍫 [Chocolate Sales Dashboard — Power BI](https://github.com/sushrutnarayan/Chocolate-Sales-Dashboard-PowerBI)
+> Multi-table sales data turned into a dashboard that actually tells a story
+
+Built an interactive Power BI dashboard analysing chocolate sales across product categories, brands, countries, and store types. Implemented a star schema data model, custom DAX measures, and interactive slicers. Key metrics: revenue, profit margin, order volume, AOV, and geographic breakdown.
+
+`Power BI` `DAX` `Star Schema` `Data Modeling`
+
+---
+
+### 🚗 [Automotive Sales Dashboard — Excel](https://github.com/sushrutnarayan/Automotive-Sales-Dashboard-Excel-)
+> End-to-end sales performance analysis for the German automotive market
+
+Interactive Excel dashboard covering KPIs, sales funnel analysis, brand and retailer comparisons, lead source evaluation, and product insights — built entirely with pivot tables, charts, and advanced Excel formulas.
+
+`Excel` `Pivot Tables` `CSV` `Dashboard Design`
+
+---
+
+## 📈 What I'm Working On
+
+- Building a portfolio of projects grounded in real business problems
+- Deepening SQL until it's second nature
+- Practising the art of making insights land — not just being correct, but being convincing
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to talking data, projects, or what Frankfurt's best coffee spot is ☕
+
+→ [LinkedIn](https://www.linkedin.com/in/sushrut-singh-ebs/) · [GitHub](https://github.com/sushrutnarayan)
