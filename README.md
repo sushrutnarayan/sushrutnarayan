@@ -1,74 +1,81 @@
 # Hi, I'm Sushrut Singh 👋
 
-**Data Analyst** · Frankfurt, Germany 🇩🇪
+**Data Analyst in the making** — I turn messy, real-world datasets into clear business insights. Based in Frankfurt, Germany 🇩🇪
 
-I turn messy, real-world datasets into decisions. My work sits at the intersection of business strategy and data — finding the revenue leak in an inventory report, or the insight hiding in a sales funnel that nobody thought to look at.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushrut-singh-ebs/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushrutnarayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sushrut-singh-ebs/)
+[![GitHub](https://img.shields.io/badge/GitHub-sushrutnarayan-181717?style=flat&logo=github)](https://github.com/sushrutnarayan)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
+
+I'm passionate about finding the story hidden inside data — whether that's spotting revenue leaks in an e-commerce catalogue, diagnosing supply chain inefficiencies, or tracking sales performance across global markets. I care about analysis that leads to *decisions*, not just dashboards.
+
+- 📊 Focus areas: EDA, business analytics, inventory & supply chain insights
+- 🛠️ Currently sharpening: SQL, advanced pandas, and data storytelling
+- 📍 Frankfurt am Main, Germany
+
+---
+
+## 🛠️ Skills & Tools
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, SQL |
-| **Python Libraries** | pandas, numpy, matplotlib, seaborn |
-| **BI & Visualization** | Power BI (DAX, star schema, data modeling), Excel (pivot tables, advanced formulas) |
-| **Environment** | Jupyter Notebook |
-| **Currently Learning** | Advanced SQL, business storytelling, communicating insights to non-technical stakeholders |
+| Languages | Python, SQL |
+| Python Libraries | pandas, numpy, matplotlib, seaborn |
+| BI & Visualization | Power BI, DAX, Excel (pivot tables, XLOOKUP, SUMIFS) |
+| Workflow | Jupyter Notebook, Git, GitHub |
+| Techniques | Data cleaning, EDA, stockout analysis, demand forecasting, supplier performance, star schema modeling |
 
 ---
 
 ## 📂 Projects
 
-### 🔩 [PCB Assembly Automation — KUKA Strategy Case Study](https://github.com/sushrutnarayan/pcb-assembly-automation-case-study)
-> Consulting-style market and strategy case study on cobot adoption in European PCB assembly SMEs
+### 🔗 [Supply Chain Analytics Case Study](https://github.com/sushrutnarayan/supply-chain-analytics)
+`Python` `pandas` `Excel` `Power BI` `DAX` `Jupyter`
 
-Structured as a real consulting deliverable for KUKA, this project examines the strategic landscape for collaborative robot adoption among small and mid-sized electronics manufacturers in Europe. Covers market sizing, adoption barriers, competitive positioning, and strategic recommendations.
+A full end-to-end supply chain analytics case study spanning Python, Excel, and Power BI — tackling inventory holding costs, stockouts, demand forecasting, and supplier visibility across multiple regions.
 
-`Strategy` `Market Analysis` `Manufacturing` `Consulting`
-
----
-
-### 📊 [ASOS Stockout Revenue Analysis](https://github.com/sushrutnarayan/asos-stockout-revenue-analysis)
-> How much revenue walks out the door when products go out of stock?
-
-Analysed ASOS product and inventory data to quantify revenue lost to stockouts. Calculated stockout rates per SKU, estimated lost revenue, and identified the high-demand brands bleeding the most — the kind of output a buying team could act on directly.
-
-`Python` `pandas` `numpy` `matplotlib` `seaborn` `EDA`
+- Cleaned and joined multi-source datasets in Python, calculating inventory KPIs and stockout metrics
+- Built an interactive Excel dashboard with slicers, XLOOKUP, SUMIFS, and KPI cards
+- Designed a 4-page Power BI dashboard on a star schema model with DAX measures
+- Key findings: 100% on-time delivery across all regions; all products exceeded the stockout threshold at least once; demand concentrated in a subset of SKUs with a mid-year seasonality dip; supplier SLAs are more conservative than actual delivery performance
 
 ---
 
-### 🍫 [Chocolate Sales Dashboard — Power BI](https://github.com/sushrutnarayan/Chocolate-Sales-Dashboard-PowerBI)
-> Multi-table sales data turned into a dashboard that actually tells a story
+### 📦 [ASOS Stockout Revenue Analysis](https://github.com/sushrutnarayan/asos-stockout-revenue-analysis)
+`Python` `pandas` `matplotlib` `seaborn` `Jupyter`
 
-Built an interactive Power BI dashboard analysing chocolate sales across product categories, brands, countries, and store types. Implemented a star schema data model, custom DAX measures, and interactive slicers. Key metrics: revenue, profit margin, order volume, AOV, and geographic breakdown.
+A deep-dive into ASOS product data to quantify the revenue impact of out-of-stock sizes.
 
-`Power BI` `DAX` `Star Schema` `Data Modeling`
+- Cleaned and transformed raw product data; extracted brand names from product descriptions
+- Calculated per-product and per-brand stockout rates and estimated lost revenue
+- Key insight: **high-priced products with high stockout rates represent the largest untapped revenue opportunity** — strong demand, weak inventory coverage
 
 ---
 
-### 🚗 [Automotive Sales Dashboard — Excel](https://github.com/sushrutnarayan/Automotive-Sales-Dashboard-Excel-)
-> End-to-end sales performance analysis for the German automotive market
+### 🍫 [Chocolate Sales Dashboard](https://github.com/sushrutnarayan/Chocolate-Sales-Dashboard-PowerBI)
+`Power BI` `DAX` `Star Schema`
 
-Interactive Excel dashboard covering KPIs, sales funnel analysis, brand and retailer comparisons, lead source evaluation, and product insights — built entirely with pivot tables, charts, and advanced Excel formulas.
+An interactive executive dashboard tracking chocolate sales across products, countries, and store channels.
 
-`Excel` `Pivot Tables` `CSV` `Dashboard Design`
+- Built a star schema data model with DAX measures for revenue, profit margin, AOV, and total orders
+- Enabled slice-and-dice filtering by month, category, and country
+- Key findings: Praline and White chocolate drive the highest revenue; brand and channel performance varies meaningfully by market
 
 ---
 
 ## 📈 What I'm Working On
 
-- Building a portfolio of projects grounded in real business problems
-- Deepening SQL until it's second nature
-- Practising the art of making insights land — not just being correct, but being convincing
+- Growing my SQL skills with real business queries
+- Adding more end-to-end data projects to this portfolio
+- Learning to communicate insights visually and narratively — not just technically
 
 ---
 
-## 💬 Let's Connect
+## 📫 Let's Connect
 
-I'm always open to talking data, projects, or what Frankfurt's best coffee spot is ☕
+I'm always open to feedback, collaboration, or just talking data.
 
-→ [LinkedIn](https://www.linkedin.com/in/sushrut-singh-ebs/) · [GitHub](https://github.com/sushrutnarayan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sushrut-singh-ebs/)
+- 🐙 [GitHub](https://github.com/sushrutnarayan)
